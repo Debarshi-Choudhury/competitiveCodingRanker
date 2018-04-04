@@ -1,0 +1,12 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+}
+
+.page-header{
+  margin-top:30px;
+}
+
+footer{
+  margin-top:40px;
+}
